@@ -1,0 +1,14 @@
+깃허브  https URL =>
+
+
+https://github.com/wldnjs0140/JPS_GitTest01.git
+
+
+
+이클립스 동적 웹 프로젝트명 => 
+JSP_GitTest01
+
+토큰 => 
+
+
+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
